@@ -10,6 +10,11 @@ Key Features:
 - **Decentralized Messaging & Video Calls**: Integrated with Zoom for virtual appointments.
 - **Payment System**: Supports cryptocurrency transactions for consultations and medical services.
 
+## Diagram
+
+<img width="567" height="756" alt="a" src="https://github.com/user-attachments/assets/ba659721-4e22-464a-82e0-325901da7ca0" />
+
+
 ## Prerequisites
 
 ### Install VS Code Editor
