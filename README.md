@@ -1,4 +1,4 @@
-# weCare - Decentralized Telemedicine Platform
+# Wecare - Decentralized Telemedicine Platform
 
 ## Project Description
 weCare is a decentralized telemedicine platform built on Ethereum that enables secure, efficient, and transparent doctor-patient interactions. It leverages blockchain technology to provide immutable medical records, smart contract-based consultations, and encrypted messaging. The platform integrates with Pinata IPFS for decentralized data storage, OpenAI for AI-driven insights, and ANKR for blockchain RPC services. weCare ensures patient privacy, trust, and seamless accessibility, making healthcare more inclusive and borderless.
